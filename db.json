@@ -1,0 +1,91 @@
+{
+    "title": "Pind Panjab",
+    "menu": {
+        "Starters": [
+            {
+                "name": "Blooming Onion",
+                "type": "veg",
+                "qty": "500 g"
+            },
+            {
+                "name": "Blooming Onion",
+                "type": "veg",
+                "qty": "500 g"
+            },
+            {
+                "name": "Blini Plater",
+                "type": "Non veg",
+                "qty": "500 g"
+            },
+            {
+                "name": "Ginger Chicken Meatballs",
+                "type": " Non veg",
+                "qty": "500 g"
+            },
+            {
+                "name": "Rosted Stuffed Mushrooms",
+                "type": "veg",
+                "qty": "500 g"
+            },
+            {
+                "name": "Antipasto Platter",
+                "type": "veg",
+                "qty": "500 g"
+            }
+        ],
+        "mainCourse": [
+            {
+                "name": "Grand Aioli",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Roasted Pumpkin, Marjoram, and Blue Cheese Frittata",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Tomato Tart with Chickpea Crumble",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Grilled Scallops with Creamed Corn",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Spring Risotto",
+                "type": "veg",
+                "qty": "800 g"
+            }
+        ],
+        "desserts":[
+            {
+                "name": "Apple Pie",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Lemon Meringue Pie",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Pecan Pie",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Super Sundae*",
+                "type": "veg",
+                "qty": "800 g"
+            },
+            {
+                "name": "Ice Cream*",
+                "type": "veg",
+                "qty": "800 g"
+            }
+        ]
+    }
+}
